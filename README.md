@@ -41,3 +41,25 @@ Review the Summary Statistics for accuracy.
 Verify Charts:
 Confirm that the Bar Chart appears and correctly reflects the spending totals.
 Confirm that the Line Chart appears and shows the monthly trends for both Income and Expenses.
+
+PICTURES OF OUTPUT:-
+
+![image alt](https://github.com/rachit683-hub/vityarthi-cseproject/blob/5972225135d2f12492e3652264eaab8bb627f51b/Screenshot%202025-11-22%20134117.png?raw=true)
+
+![image alt](https://github.com/rachit683-hub/vityarthi-cseproject/blob/5972225135d2f12492e3652264eaab8bb627f51b/Screenshot%202025-11-22%20134131.png?raw=true)
+
+![image alt](https://github.com/rachit683-hub/vityarthi-cseproject/blob/5972225135d2f12492e3652264eaab8bb627f51b/Screenshot%202025-11-22%20134148.png?raw=true)
+
+![image alt](https://github.com/rachit683-hub/vityarthi-cseproject/blob/5972225135d2f12492e3652264eaab8bb627f51b/Screenshot%202025-11-22%20134200.png?raw=true)
+
+![image alt](https://github.com/rachit683-hub/vityarthi-cseproject/blob/5972225135d2f12492e3652264eaab8bb627f51b/Screenshot%202025-11-22%20134213.png?raw=true)
+
+![image alt](https://github.com/rachit683-hub/vityarthi-cseproject/blob/5972225135d2f12492e3652264eaab8bb627f51b/Screenshot%202025-11-22%20134233.png?raw=true)
+
+![image alt](https://github.com/rachit683-hub/vityarthi-cseproject/blob/5972225135d2f12492e3652264eaab8bb627f51b/Screenshot%202025-11-22%20134245.png?raw=true)
+
+![image alt](https://github.com/rachit683-hub/vityarthi-cseproject/blob/5972225135d2f12492e3652264eaab8bb627f51b/Screenshot%202025-11-22%20134311.png?raw=true)
+
+![image alt](https://github.com/rachit683-hub/vityarthi-cseproject/blob/5972225135d2f12492e3652264eaab8bb627f51b/Screenshot%202025-11-22%20134423.png?raw=true)
+
+![image alt](https://github.com/rachit683-hub/vityarthi-cseproject/blob/5972225135d2f12492e3652264eaab8bb627f51b/Screenshot%202025-11-22%20134501.png?raw=true)
