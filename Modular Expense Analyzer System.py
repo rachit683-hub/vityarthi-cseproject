@@ -208,7 +208,6 @@ def plot_category_spending(category_totals: pd.Series):
     plt.show()
     # 
 
-[Image of a bar chart showing spending by category]
 
 
 
